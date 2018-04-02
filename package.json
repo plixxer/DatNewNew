@@ -1,0 +1,14 @@
+{
+  "name": "datnewnew",
+  "version": "1.0.0",
+  "displayName": "DatNewNew",
+  "cordova": {
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "7.0.0",
+    "cordova-ios": "~4.5.4"
+  }
+}
